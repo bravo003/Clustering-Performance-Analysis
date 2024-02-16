@@ -1,0 +1,4 @@
+name,No Data Processing,No Data Processing,No Data Processing,T+N,T+N,T+N,T+N+PCA,T+N+PCA,T+N+PCA,Using Normalisation,Using Normalisation,Using Normalisation,Using PCA,Using PCA,Using PCA,Using Transform,Using Transform,Using Transform
+cluster_size,3,4,5,3,4,5,3,4,5,3,4,5,3,4,5,3,4,5
+Silhouette,0.2812,0.2799,0.2768,0.1335,0.1356,0.1158,0.1353,0.1333,0.1193,0.1296,0.1333,0.1126,0.2821,0.2799,0.2778,0.5602,0.5469,0.5384
+Calinski-Harabasz,195.4521,177.0044,169.3541,48.7306,41.709,37.1282,48.7772,41.677,36.5903,47.471,40.9062,35.7,195.5082,177.0044,169.3746,801.8385,922.5416,1017.3824
